@@ -2,9 +2,7 @@
 
 This is a very simple program with the purpose of printing "Hello World" to the console. I created this to demonstrate basics of the Python language as well as the integration of Visual Studio Code, GitHub, and Python together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3eZ-4-23HxQ)
 
 # Development Environment
 
